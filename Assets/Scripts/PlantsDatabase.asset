@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1cead29eedb0458ab01098169891640, type: 3}
+  m_Name: PlantsDatabase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Purple Tulip
+    <ID>k__BackingField: 0
+    <Stage1>k__BackingField: {fileID: 1438838480590421563, guid: 06a3fbbb30bc54603b139fdb7717683c,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 1438838480590421563, guid: b4b6c06c63ec7434fa16fca72df9d82c,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 1438838480590421563, guid: 51e8f9a567fdd4ca9a312c23f03ccdc8,
+      type: 3}
+    <sellPrice>k__BackingField: 40
+  - <Name>k__BackingField: Orange Flower
+    <ID>k__BackingField: 1
+    <Stage1>k__BackingField: {fileID: 940242987647012655, guid: 28510ad7098f7466eb9fb74c6b57518b,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 940242987647012655, guid: f7ca2160b94f446cab6d861ca90c3f40,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 940242987647012655, guid: 8b3af7e5c58964c53bf99e967d90cc69,
+      type: 3}
+    <sellPrice>k__BackingField: 40
+  - <Name>k__BackingField: Purple Dandelion
+    <ID>k__BackingField: 2
+    <Stage1>k__BackingField: {fileID: 5894294230330308796, guid: 686f7326024964833b23a0f4839419fa,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 5894294230330308796, guid: 68fd1e11c81e84fd3a028b3633f3c134,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 5894294230330308796, guid: e81f2e46c5d6c4125a06bc5149c8722a,
+      type: 3}
+    <sellPrice>k__BackingField: 50
+  - <Name>k__BackingField: Yellow Dandelion
+    <ID>k__BackingField: 3
+    <Stage1>k__BackingField: {fileID: 4660541955509519564, guid: 0b060d7c64f2e46598d6a2e98a3cfc38,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 4660541955509519564, guid: 4a3d21441da77422697d70abc30e75b9,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 4660541955509519564, guid: 8ec24c29d89ae4458a24e3cdb7456770,
+      type: 3}
+    <sellPrice>k__BackingField: 50
+  - <Name>k__BackingField: Pink Dandelion
+    <ID>k__BackingField: 4
+    <Stage1>k__BackingField: {fileID: 4322585696967026063, guid: 6d9ee09cb03144c7e9631fb771e06e63,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 4322585696967026063, guid: 053abf800e0504075b71723adfeb18aa,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 4322585696967026063, guid: bd650284c2e384982a61793d4cca5442,
+      type: 3}
+    <sellPrice>k__BackingField: 50
+  - <Name>k__BackingField: Cactus
+    <ID>k__BackingField: 5
+    <Stage1>k__BackingField: {fileID: 5998989936989340933, guid: dc4603973b14e4a22b3aa775ba1c07c7,
+      type: 3}
+    <Stage2>k__BackingField: {fileID: 5998989936989340933, guid: de78dc507824d44439093ed28bd6ec52,
+      type: 3}
+    <Stage3>k__BackingField: {fileID: 5998989936989340933, guid: 261585e46909145eaa3f5a7855a55b0e,
+      type: 3}
+    <sellPrice>k__BackingField: 80

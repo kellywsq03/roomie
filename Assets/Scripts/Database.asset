@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c04b4e1204c48df81b5f281da37a64, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Bed
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 3, y: 4}
+    <Prefab0>k__BackingField: {fileID: 2987714299291888197, guid: 5bd868e9862b64b1ebb615cb8216a34e,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 2987714299291888197, guid: 4fba95ecd681847cc98a46e8423f52b1,
+      type: 3}
+  - <Name>k__BackingField: Display Table
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 2, y: 3}
+    <Prefab0>k__BackingField: {fileID: 5973368702588046249, guid: 097d4a67741d14314bdfb1449aae2d0e,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 5973368702588046249, guid: 706d0b168166c4218ba1e55b0322e7eb,
+      type: 3}
+  - <Name>k__BackingField: Bedside Table
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 55695684552145779, guid: a46b6929d41c34c03a0e2f1e507f9e14,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 55695684552145779, guid: 77fe77cbfa86f4e44b73c61f4384825b,
+      type: 3}
+  - <Name>k__BackingField: Fridge
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 1496970811377425909, guid: ccb3902bd35df460db49955e930864db,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 1496970811377425909, guid: e9f9bae20e7c742b888d5affda831392,
+      type: 3}
+  - <Name>k__BackingField: Lamp
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab0>k__BackingField: {fileID: 7290255688144267684, guid: 781086db8cfb545d489735d4b8ed4c69,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 7290255688144267684, guid: 781086db8cfb545d489735d4b8ed4c69,
+      type: 3}
+  - <Name>k__BackingField: Footstool
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 6589445560439967824, guid: 71f393291bdac48e9b412ecdbbe972f1,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 6589445560439967824, guid: ae93d3e7f1eea44768c1dbf26d35fd59,
+      type: 3}
+  - <Name>k__BackingField: Stool
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 3053498294327979545, guid: d77bd005b62d34025988c68f9f02de29,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 3053498294327979545, guid: d77bd005b62d34025988c68f9f02de29,
+      type: 3}
+  - <Name>k__BackingField: Bed1
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 4, y: 3}
+    <Prefab0>k__BackingField: {fileID: 2987714299291888197, guid: 75189e033407d48c3a5819725f8769b1,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 2987714299291888197, guid: f7d20e630315449c696103f0d6545496,
+      type: 3}
+  - <Name>k__BackingField: DisplayTable1
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 3, y: 2}
+    <Prefab0>k__BackingField: {fileID: 5973368702588046249, guid: 9e89d04ee1b194c9aadc62f9226664a7,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 5973368702588046249, guid: c47a88842b1884768adab727335ac779,
+      type: 3}
+  - <Name>k__BackingField: BedsideTable1
+    <ID>k__BackingField: 9
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 55695684552145779, guid: 2368f6e0987574e77a6f4fc346bb9e64,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 55695684552145779, guid: 6827c98cd51de4715bfbb22f78cdb91b,
+      type: 3}
+  - <Name>k__BackingField: Fridge1
+    <ID>k__BackingField: 10
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 1496970811377425909, guid: 85358cf7ff354474fa0f48f68d475a77,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 1496970811377425909, guid: 29cef8f4305de49159326cf9ade2b497,
+      type: 3}
+  - <Name>k__BackingField: Lamp1
+    <ID>k__BackingField: 11
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab0>k__BackingField: {fileID: 7290255688144267684, guid: 781086db8cfb545d489735d4b8ed4c69,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 7290255688144267684, guid: 781086db8cfb545d489735d4b8ed4c69,
+      type: 3}
+  - <Name>k__BackingField: FootStool1
+    <ID>k__BackingField: 12
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab0>k__BackingField: {fileID: 6589445560439967824, guid: cb4f9476784b548e0b8a2eea42d6b362,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 6589445560439967824, guid: eb91a091adfc3478abfdd5a23b184ca9,
+      type: 3}
+  - <Name>k__BackingField: Stool1
+    <ID>k__BackingField: 13
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab0>k__BackingField: {fileID: 3053498294327979545, guid: d77bd005b62d34025988c68f9f02de29,
+      type: 3}
+    <Prefab1>k__BackingField: {fileID: 3053498294327979545, guid: d77bd005b62d34025988c68f9f02de29,
+      type: 3}
